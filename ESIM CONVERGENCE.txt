@@ -10,8 +10,3 @@ TEST SCENARIOS FOR ANDROID ESIM CONVERGENCE
 8)PSIM_ESIM -> Enter PSIM IMEI -> IMEI 2 screen -> Enter PSIM IMEI -> Show popup to Enter ESIM -> Confirmed Status -> See ESIM Compatible page - AGENT NC
 9)PSIM_ESIM -> Enter PSIM IMEI -> IMEI 2 screen -> Enter ESIM IMEI -> Not confirmed status -> Pop up to enter PSIM IMEI -> enter PSIM IMEI -> PSIM Compatible page - AGENT EC
 10)PSIM_ESIM -> Enter PSIM IMEI -> IMEI 2 screen -> Enter ESIM IMEI -> Not supported status -> Pop up to enter PSIM IMEI -> enter PSIM IMEI -> PSIM Compatible page - SS NC
-11)ANDROID ESIM + ANDROID PSIM -> Adding a pSIM to an eSIM cart -> See the respective popup (refer figma) - SS NC
-12)ANDROID PSIM + ANDROID ESIM  -> Adding a eSIM to an pSIM cart -> See the respective popup (refer figma) - SS EC
-13)ANDROID ESIM + Shop new device -> Adding a new device purchase to an eSIM cart -> See the respective popup (refer figma) - AGENT EC
-14)ANDROID ESIM + ANDROID PSIM -> AX - Mixed SIM types messaging -> See the respective popup (refer figma) - AGENT NC
-15)Shop new Phone (PSIM_ESIM) + WATCH (BYO) Compatible - SS NC
